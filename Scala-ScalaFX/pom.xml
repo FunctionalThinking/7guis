@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.scalarx</groupId>
             <artifactId>scalarx_2.10</artifactId>
-            <version>0.2.3</version>
+            <version>0.2.6</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.akka</groupId>
